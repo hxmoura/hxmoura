@@ -1,4 +1,4 @@
-## Olá, eu sou o Henrique Moura!!
+## Olá, eu sou o Henrique!!
 
 <div>
   <a href="https://github.com/hxmoura">
