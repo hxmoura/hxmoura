@@ -1,5 +1,3 @@
-###Ola! Eu sou o Henrique!
-
 <div>
   <a href="https://github.com/hxmoura">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hxmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
