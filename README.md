@@ -18,6 +18,9 @@
   
   ![Snake animation](https://github.com/hxmoura/hxmoura/blob/output/github-contribution-grid-snake.svg)
   
+  
+  ###**Contatos**
+  
    <a href="https://www.linkedin.com/in/hxmoura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/ShsrsWeVUJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://t.me/hxcmoura" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
